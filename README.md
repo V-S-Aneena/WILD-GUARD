@@ -1,2 +1,2 @@
-# WILD-SOUND
+# WILD-GUARD
 Wildlife monitoring system using AI
