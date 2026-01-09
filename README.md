@@ -75,14 +75,6 @@ When multiple alerts occur within close geographic proximity, the system identif
 
 ---
 
-## Deployment Notes
-
-* AI inference runs locally on the server using CPU
-* No external AI services or paid APIs are required
-* Suitable for academic use and demo deployment
-* Can run on free-tier infrastructure with limited load
-
----
 
 ## Project Scope
 
